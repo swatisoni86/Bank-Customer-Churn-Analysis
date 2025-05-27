@@ -25,8 +25,6 @@ churn_probability = model.predict_proba(customer_data)
 print(f"Churn Risk: {churn_probability[0][1]:.2%}")
 ```
 
-**🎬 [View Live Demo](https://nbviewer.jupyter.org/github/your-repo/BankChurners_Analysis.ipynb)** | **📊 [Interactive Dashboard](https://your-dashboard-url.com)**
-
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
