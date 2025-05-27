@@ -729,23 +729,6 @@ pip install jupyter
 
 ## 📞 Support & Community
 
-### 💬 Getting Help
-- **📧 Email**: support@bank-churn-analytics.com
-- **💬 Slack**: [#bank-churn-analytics](https://workspace.slack.com/channels/bank-churn-analytics)
-- **🐛 Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **📚 Wiki**: [Project Wiki](https://github.com/your-repo/wiki)
-
-### 🤝 Community
-- **👥 Contributors**: 15+ active contributors
-- **⭐ Stars**: 500+ GitHub stars
-- **🍴 Forks**: 150+ project forks
-- **📈 Usage**: 50+ organizations using this solution
-
-### 📅 Office Hours
-- **When**: Every Friday 2-3 PM EST
-- **Where**: [Zoom Meeting](https://zoom.us/meeting-link)
-- **What**: Q&A, feature requests, technical discussions
-
 ## 📚 References
 
 ### 📊 Data Source
